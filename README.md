@@ -1,4 +1,4 @@
-# maisondetalents-com
+# 메종 드 탤런트
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,92 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-maisondetalents-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://maisondetalents.com/
+메종 드 탤런트는 백화점·면세점·명품 매장 판매·서비스 직종을 위한 전문 채용 플랫폼으로, 구직자에게 채용 공고, 연봉 정보, 면접 팁 등을 제공하며, 기업에게는 인재 채용 솔루션을 제공합니다. 한국에 정식 등록된 사업체이며, 럭셔리 리테일 산업에 특화된 데이터 큐레이션을 수행합니다.
+
+**Areas:** Company · Recruitment · LuxuryRetail · SouthKorea · JobPlatform
+
+## 메종 드 탤런트 on APIs.io
+
+Everything profiled for 메종 드 탤런트 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/maisondetalents-com/](https://apis.io/providers/maisondetalents-com/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [메종 드 탤런트 Domain Security](https://apis.io/security/maisondetalents-com/maisondetalents-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [메종 드 탤런트 Plans Pricing](https://apis.io/plans/maisondetalents-com/maisondetalents-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://maisondetalents.com/)
+- [Pricing](https://maisondetalents.com/pricing)
+- [Sign up](https://maisondetalents.com/register?next=%2F)
+- [Terms of service](https://maisondetalents.com/terms)
+- [Privacy policy](https://maisondetalents.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 14.8** — emerging · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 41.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 59.1 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/maisondetalents-com/](https://apis.io/providers/maisondetalents-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 메종 드 탤런트: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/maisondetalents-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
